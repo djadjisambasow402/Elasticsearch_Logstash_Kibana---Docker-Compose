@@ -1,1 +1,2 @@
-# Elasticsearch_Logstash_Kibana---Docker-Compose
+# Elasticsearch-logstash-Kibana-Docker-Compose
+Create ELK stack using Docker Compose
